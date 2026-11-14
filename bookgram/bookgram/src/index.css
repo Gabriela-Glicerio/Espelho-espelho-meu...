@@ -1,0 +1,5 @@
+:root{--periwinkle:#E3D9FC;--magenta:#BF40FA;--blue:#4928C2;--velvet:#5B2A62;--bg:#F3EEFB;--ink:#2a1840}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:'Open Sans',Arial,sans-serif}
+button,input{font:inherit}
+:focus-visible{outline:3px solid var(--magenta);outline-offset:2px}
