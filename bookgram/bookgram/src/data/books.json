@@ -1,8 +1,0 @@
-[
-{"id":1,"title":"O Nome do Vento","author":"Patrick Rothfuss","genre":"Fantasia","rating":4.8,"cover":"/images/books/nome-do-vento.jpg","description":"Um músico lendário conta a própria história, entre magia, perdas e mistério."},
-{"id":2,"title":"Dom Casmurro","author":"Machado de Assis","genre":"Literatura brasileira","rating":4.7,"cover":"/images/books/dom-casmurro.jpg","description":"Bentinho narra o amor por Capitu e deixa a dúvida que divide leitores há mais de um século."},
-{"id":3,"title":"Orgulho e Preconceito","author":"Jane Austen","genre":"Romance","rating":4.9,"cover":"/images/books/orgulho.jpg","description":"O clássico dos primeiros julgamentos errados e dos diálogos afiados."},
-{"id":4,"title":"A Assombração da Casa da Colina","author":"Shirley Jackson","genre":"Terror e suspense","rating":4.5,"cover":"/images/books/casa-colina.jpg","description":"Quatro pessoas passam o verão numa casa que parece observá-las."},
-{"id":5,"title":"Sandman: Prelúdios e Noturnos","author":"Neil Gaiman","genre":"HQs e mangás","rating":4.6,"cover":"/images/books/sandman.jpg","description":"O Senhor dos Sonhos escapa do cativeiro e precisa reconstruir seu reino."},
-{"id":6,"title":"Torto Arado","author":"Itamar Vieira Junior","genre":"Literatura brasileira","rating":4.7,"cover":"/images/books/torto-arado.jpg","description":"Duas irmãs, uma fazenda na Bahia e um segredo que molda suas vidas."}
-]
